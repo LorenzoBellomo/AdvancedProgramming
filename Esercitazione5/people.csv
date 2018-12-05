@@ -1,0 +1,7 @@
+id,	firstname,	surname,	title,	address,	town,	  country,	postcode,	subscription paid,	gender,		date of birth
+1,	Polly,		Parrot,		-,	42 The Lane,	Some Town, gb,		-,		true,	                female,		1970-12-31
+2,      Mabel,          Canary,         Mrs,    24 The Street,  Noshire,   gb,          AB1 2YZ,	false,			-,		1968-01-23
+3,      Zoe,            Zebra,          -,      -,              Some City, -,           -,              true,                   -,         	1989-07-16
+4,      Jorge,          Arara,          -,      Nenhuma Rua,    Mendoza,   ar,          -,              false,                  -,           	1991-05-30
+5,      Dickie,         Duck,           -,      -,              -,         gb,          -,              false,                  male,           1952-11-25
+6,      Fred,           Canary,         Mr,     24 The Street,  Noshire,   gb,          AB1 2YZ,        true,                   male,           1967-08-04
